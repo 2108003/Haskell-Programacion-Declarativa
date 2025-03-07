@@ -1,5 +1,4 @@
 # Haskell-Programacion-Declarativa
-'''Haskell
 -- Definimos una estructura de datos para representar los libros
 data Libro = Libro {
     titulo :: String,
@@ -32,4 +31,4 @@ main = do
         else do
             putStrLn "Libros recomendados:"
             mapM_ (putStrLn . titulo) librosRecomendados
-'''
+
