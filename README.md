@@ -1,5 +1,5 @@
 # Haskell-Programacion-Declarativa
-'''python
+'''Haskell
 -- Definimos una estructura de datos para representar los libros
 data Libro = Libro {
     titulo :: String,
